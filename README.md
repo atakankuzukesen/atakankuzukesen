@@ -64,8 +64,6 @@ Currently, I am actively building my foundational skills in automotive communica
 
 ---
 
-### 🐍 Contribution Snake
-
 ![snake gif](https://raw.githubusercontent.com/atakankuzukesen/atakankuzukesen/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://raw.githubusercontent.com/atakankuzukesen/atakankuzukesen/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
