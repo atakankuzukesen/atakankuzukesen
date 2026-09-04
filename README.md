@@ -4,8 +4,8 @@ I am a 2nd-year Electrical and Electronics Engineering student at Gaziantep Univ
 
 Currently, I am actively building my foundational skills in automotive communication, microcontroller firmware, and hardware design to contribute to sustainable mobility and engineering projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atakankuzukesen/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kuzukesenatakan@gmail.com)
 
 ---
 
@@ -64,6 +64,13 @@ Currently, I am actively building my foundational skills in automotive communica
 
 ---
 
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/atakankuzukesen/atakankuzukesen/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/atakankuzukesen/atakankuzukesen/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
+
 ### 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/atakankuzukesen](https://www.linkedin.com/in/atakankuzukesen/)
+- **Email:** kuzukesenatakan@gmail.com
