@@ -1,6 +1,6 @@
 # Hi there, I'm Atakan 👋
 
-I am a 2nd-year Electrical and Electronics Engineering student at Gaziantep University, passionate about **electric vehicles, embedded systems, and power electronics**.
+I am a Electrical and Electronics Engineering student at Gaziantep University, passionate about **electric vehicles, embedded systems, and power electronics**.
 
 Currently, I am actively building my foundational skills in automotive communication, microcontroller firmware, and hardware design to contribute to sustainable mobility and engineering projects.
 
